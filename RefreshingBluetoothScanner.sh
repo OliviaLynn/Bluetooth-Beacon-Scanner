@@ -10,7 +10,6 @@
 #	TUTORIAL: tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
 # xdotool:
 #	INSTALL: sudo apt install xdotool
-# 	MANUAL: manpages.ubuntu.com/manpages/trust/man1/xdotool.1.1html
 #
 # LAUNCH: type "bash [pathtofile]" in the command line
 #	(For example, I have this stored on the Desktop at the time of typing 
