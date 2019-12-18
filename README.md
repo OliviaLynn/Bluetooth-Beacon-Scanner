@@ -3,6 +3,8 @@
 
 For constant, real-time scanning of Eddystone Bluetooth Beacons with a Raspberry Pi. Forwards scanned address/RSSI pairs onwards to a specified UDP server.
 
+<img src="https://i.imgur.com/JDLaTeG.png" />
+
 ## Getting Started
 
 ### Prerequisites
