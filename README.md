@@ -1,7 +1,7 @@
 # Bluetooth Beacon Scanner
 <img src="https://img.shields.io/badge/python-2.7-blue"> <img src="https://img.shields.io/badge/platform-rpi-blue"> <img src="https://img.shields.io/badge/maintained%3F-no-red" /> <img src="https://img.shields.io/github/issues/OliviaLynn/Bluetooth-Beacon-Scanner" /> 
 
-For constant, real-time scanning of local Eddystone Bluetooth Beacons with a Raspberry Pi. Forward scanned address/RSSI pairs onwards to a specified UDP server and periodically refresh the Python-based scanner to prevent crashes.
+For constant, real-time scanning of local Eddystone Bluetooth Beacons with a Raspberry Pi. Forwards scanned address/RSSI pairs onwards to a specified UDP server and periodically refreshes the Python-based scanner to prevent crashes.
 
 <img src="https://i.imgur.com/JDLaTeG.png" />
 
