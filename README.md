@@ -27,6 +27,7 @@ $ pip install beacontools
 ```shell
 $ bash <path/to/RefreshingBluetoothScanner.sh>
 ```
+- The UDP messages are formatted as `BluetoothAddress|RSSI`. For example, the UDP message representing a relative signal strength of -55 from a Bluetooth beacon with the address "ac:23:3f:23:56:f3" would be: `ac:23:3f:23:56:f3|-55`.
 
 ## Reference
 - A quick bash tutorial can be found [here](tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html).
